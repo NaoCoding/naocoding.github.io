@@ -58,15 +58,15 @@ export const profileConfig: ProfileConfig = {
 	bio: "NaoCoding, a software engineer and tech enthusiast, sharing insights on coding, technology, and life.",
 	links: [
 		{
-			name: "Instagram",
-			icon: "fa6-brands:instagram", // Visit https://icones.js.org/ for icon codes
+			name: "Mail",
+			icon: "material-symbols:mail", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://www.instagram.com/_andy1u/",
+			url: "mailto:me@andy-lu.dev",
 		},
 		{
 			name: "Resume",
-			icon: "fa6-regular:share-from-square",
+			icon: "tabler:file-cv",
 			url: "https://cv.andy-lu.dev/",
 		},
 		{
